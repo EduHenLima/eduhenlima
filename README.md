@@ -47,6 +47,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" wi
 
 <hr>
 
+<div>
+<a href="https://github.com/eduhenlima">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduhenlima&layout=compact&langs_count=4&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduhenlima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+<hr>
+
 * Contato:
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/eduardo-lima-1616b3140/)
 
