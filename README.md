@@ -1,7 +1,7 @@
 ## Bem vindo
 ## Eduardo Lima 
 
-Atualmente com 25 anos, moro em Curitiba/PR e sou apaixonado por desenvolvimento e tecnologia.
+Atualmente com 27 anos, moro em Curitiba/PR e sou apaixonado por desenvolvimento e tecnologia.
 Sou aventureiro e adoro corrigir e solucionar problemas, estilo Sherlock Holmes rsrs.
 
 
