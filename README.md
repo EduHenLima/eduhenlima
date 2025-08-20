@@ -5,7 +5,7 @@ Atualmente com 27 anos, moro em Curitiba/PR e sou apaixonado por desenvolvimento
 Sou aventureiro e adoro corrigir e solucionar problemas, estilo Sherlock Holmes rsrs.
 
 
-- 🔭 Atualmente trabalhando como Analista de Desenvolvimento na [Rentcars](https://rentcars.com/)
+- 🔭 Atualmente trabalhando como Especialista de Desenvolvimento no [Grupo Boticario](https://boticario.com.br/)
 - 🌱 Atualmente estou bem focado em aprender sobre AWS e Micro Serviços e claro, popular meu gitHub com vários projetos incriveis! 
 
 
